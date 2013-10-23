@@ -2054,3 +2054,4 @@ check_bash_version && {
 }
 
 export ANDROID_BUILD_TOP=$(gettop)
+#this is a comment
